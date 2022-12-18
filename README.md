@@ -4,7 +4,9 @@ All codingbat.com JAVA problems solved in C;
 
 281 problems : I didn't solve (MAP-1 , MAP-2 , Functional-1 , Functional-2) ,
 
-since they can only be solved in Java (they're also not that hard !) .
+since they can only be solved in Java (they're also not that hard !) ; let me know if you want
+
+their solutions in JAVA ; or you can find it on the internet anyway .
 
 String-3 , Array-3 and Recursion-2 are the hardest problems on the website .
 
