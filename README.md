@@ -8,7 +8,7 @@ since they can only be solved in Java (they're also not that hard !) ; let me kn
 
 their solutions in JAVA ; or you can find it on the internet anyway .
 
-String-3 , Array-3 and Recursion-2 are the hardest problems on the website .
+Logic-2 , String-3 , Array-3 and Recursion-2 are the hardest problems on the website .
 
 Solving these problems is a bit challenging in C ;
 
